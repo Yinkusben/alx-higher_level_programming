@@ -1,1 +1,1 @@
-Data structuers
+data structure

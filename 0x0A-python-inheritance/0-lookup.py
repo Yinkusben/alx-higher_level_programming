@@ -6,7 +6,8 @@ def lookup(obj):
 
     Args:
         obj: The object whose attr and method is to be returned
-    Return: a list of returned attributes and methods
+    Returns:
+        a list of returned attributes and methods
     """
 
     return dir(obj)

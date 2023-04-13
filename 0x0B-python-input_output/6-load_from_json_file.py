@@ -7,4 +7,4 @@ def load_from_json_file(filename):
     """ Open the filw and deserialize using load() funcrion
     """
     with open(filename, 'r' encoding='utf-8') as f:
-        return json.load(filename)
+        return json.load(f)

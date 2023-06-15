@@ -1,1 +1,1 @@
-ALX High Level Programming
+JavaScript objects scopes closures
